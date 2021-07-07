@@ -1,0 +1,7 @@
+D:\My GitHub\CA_GeriyeDeger[+]Parametre[-]\CA_GeriyeDeger[+]Parametre[-]\bin\Debug\CA_GeriyeDeger[+]Parametre[-].exe.config
+D:\My GitHub\CA_GeriyeDeger[+]Parametre[-]\CA_GeriyeDeger[+]Parametre[-]\bin\Debug\CA_GeriyeDeger[+]Parametre[-].exe
+D:\My GitHub\CA_GeriyeDeger[+]Parametre[-]\CA_GeriyeDeger[+]Parametre[-]\bin\Debug\CA_GeriyeDeger[+]Parametre[-].pdb
+D:\My GitHub\CA_GeriyeDeger[+]Parametre[-]\CA_GeriyeDeger[+]Parametre[-]\obj\Debug\CA_GeriyeDeger[+]Parametre[-].csproj.AssemblyReference.cache
+D:\My GitHub\CA_GeriyeDeger[+]Parametre[-]\CA_GeriyeDeger[+]Parametre[-]\obj\Debug\CA_GeriyeDeger[+]Parametre[-].csproj.CoreCompileInputs.cache
+D:\My GitHub\CA_GeriyeDeger[+]Parametre[-]\CA_GeriyeDeger[+]Parametre[-]\obj\Debug\CA_GeriyeDeger[+]Parametre[-].exe
+D:\My GitHub\CA_GeriyeDeger[+]Parametre[-]\CA_GeriyeDeger[+]Parametre[-]\obj\Debug\CA_GeriyeDeger[+]Parametre[-].pdb
