@@ -1,0 +1,7 @@
+D:\My GitHub\CA_GeriyeDeger[+]Parametre[+]_HepsiyleBirOrnek\CA_GeriyeDeger[+]Parametre[+]_HepsiyleBirOrnek\bin\Debug\CA_GeriyeDeger[+]Parametre[+]_HepsiyleBirOrnek.exe.config
+D:\My GitHub\CA_GeriyeDeger[+]Parametre[+]_HepsiyleBirOrnek\CA_GeriyeDeger[+]Parametre[+]_HepsiyleBirOrnek\bin\Debug\CA_GeriyeDeger[+]Parametre[+]_HepsiyleBirOrnek.exe
+D:\My GitHub\CA_GeriyeDeger[+]Parametre[+]_HepsiyleBirOrnek\CA_GeriyeDeger[+]Parametre[+]_HepsiyleBirOrnek\bin\Debug\CA_GeriyeDeger[+]Parametre[+]_HepsiyleBirOrnek.pdb
+D:\My GitHub\CA_GeriyeDeger[+]Parametre[+]_HepsiyleBirOrnek\CA_GeriyeDeger[+]Parametre[+]_HepsiyleBirOrnek\obj\Debug\CA_GeriyeDeger[+]Parametre[+]_HepsiyleBirOrnek.csproj.AssemblyReference.cache
+D:\My GitHub\CA_GeriyeDeger[+]Parametre[+]_HepsiyleBirOrnek\CA_GeriyeDeger[+]Parametre[+]_HepsiyleBirOrnek\obj\Debug\CA_GeriyeDeger[+]Parametre[+]_HepsiyleBirOrnek.csproj.CoreCompileInputs.cache
+D:\My GitHub\CA_GeriyeDeger[+]Parametre[+]_HepsiyleBirOrnek\CA_GeriyeDeger[+]Parametre[+]_HepsiyleBirOrnek\obj\Debug\CA_GeriyeDeger[+]Parametre[+]_HepsiyleBirOrnek.exe
+D:\My GitHub\CA_GeriyeDeger[+]Parametre[+]_HepsiyleBirOrnek\CA_GeriyeDeger[+]Parametre[+]_HepsiyleBirOrnek\obj\Debug\CA_GeriyeDeger[+]Parametre[+]_HepsiyleBirOrnek.pdb
